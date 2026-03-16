@@ -9,12 +9,13 @@ export default function App() {
             Vega Commons Project
           </h1>
 
-          <div className="mt-8 ml-2 space-y-1 text-[13px] text-zinc-600">
+<div className="mt-8 pl-4 md:pl-6 space-y-1 text-[12px] text-zinc-500">
+            <div>vegacommons.org</div>
             <div>New York, NY</div>
             <div>501(c)(3) nonprofit corporation</div>
             <div>Established 2026</div>
             <div>&nbsp;</div>
-            <div>
+  <div className="pt-3">
               <a
                 href="mailto:info@vegacommons.org"
                 className="hover:text-zinc-400 transition-colors"
