@@ -10,27 +10,24 @@ export default function App() {
           </h1>
 
 
-<div className="mt-8 ml-[50px] space-y-1 text-[12px] text-zinc-600">
+<div className="mt-8 ml-8 text-[13px] text-zinc-600">
+  <div className="space-y-1">
+    <div>New York, NY</div>
+    <div>501(c)(3) nonprofit corporation</div>
+    <div>Established 2026</div>
+  </div>
 
-            <div>&nbsp;</div>
-            <div>New York, NY</div>
-            <div>501(c)(3) nonprofit corporation</div>
-            <div>Established 2026</div>
-
-
-
-<div className="mt-[14px]">
-      <a
+  <div className="mt-5">
+    <a
       href="mailto:info@vegacommons.org"
       className="hover:text-zinc-400 transition-colors"
     >
       info@vegacommons.org
     </a>
   </div>
+</div>
 
 
-
-          </div>
         </div>
       </main>
     </div>
