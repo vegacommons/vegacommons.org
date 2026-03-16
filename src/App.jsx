@@ -6,11 +6,15 @@ export default function App() {
       <main className="relative min-h-screen flex items-center justify-center px-8">
         <div className="w-full max-w-5xl">
           <h1 className="text-[46px] md:text-[84px] leading-none tracking-[-0.06em] font-semibold text-zinc-100">
-            Vega Commons
+            Vega Commons Project, Inc.
           </h1>
-          <p className="mt-8 text-[13px] text-zinc-600">
-            vegacommons.org
-          </p>
+
+          <div className="mt-8 space-y-1 text-[13px] text-zinc-600">
+            <div>vegacommons.org</div>
+            <div>New York, NY</div>
+            <div>501(c)(3) nonprofit corporation</div>
+            <div>Established 2026</div>
+          </div>
         </div>
       </main>
     </div>
