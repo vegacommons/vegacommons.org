@@ -9,8 +9,9 @@ export default function App() {
             Vega Commons Project
           </h1>
 
-<div className="mt-8 pl-4 md:pl-6 space-y-1 text-[12px] text-zinc-500">
-            <div>vegacommons.org</div>
+
+<div className="mt-8 ml-[36px] space-y-1 text-[12px] text-zinc-600">
+
             <div>New York, NY</div>
             <div>501(c)(3) nonprofit corporation</div>
             <div>Established 2026</div>
