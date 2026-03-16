@@ -6,14 +6,24 @@ export default function App() {
       <main className="relative min-h-screen flex items-center justify-center px-8">
         <div className="w-full max-w-5xl">
           <h1 className="text-[46px] md:text-[84px] leading-none tracking-[-0.06em] font-semibold text-zinc-100">
-            Vega Commons Project, Inc.
+            Vega Commons Project
           </h1>
 
           <div className="mt-8 space-y-1 text-[13px] text-zinc-600">
+            <div>Vega Commons Project, Inc.</div>
             <div>vegacommons.org</div>
             <div>New York, NY</div>
             <div>501(c)(3) nonprofit corporation</div>
             <div>Established 2026</div>
+            <div>&nbsp;</div>
+            <div>
+              <a
+                href="mailto:info@vegacommons.org"
+                className="hover:text-zinc-400 transition-colors"
+              >
+                info@vegacommons.org
+              </a>
+            </div>
           </div>
         </div>
       </main>
