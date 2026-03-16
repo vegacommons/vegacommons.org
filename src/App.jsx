@@ -10,7 +10,8 @@ export default function App() {
           </h1>
 
 
-<div className="mt-8 ml-8 text-[13px] text-zinc-600">
+
+<div className="mt-8 ml-[50px] text-[13px] text-zinc-600">
   <div className="space-y-1">
     <div>New York, NY</div>
     <div>501(c)(3) nonprofit corporation</div>
