@@ -16,15 +16,20 @@ export default function App() {
             <div>New York, NY</div>
             <div>501(c)(3) nonprofit corporation</div>
             <div>Established 2026</div>
-            <div>&nbsp;</div>
-  <div className="pt-3">
-              <a
-                href="mailto:info@vegacommons.org"
-                className="hover:text-zinc-400 transition-colors"
-              >
-                info@vegacommons.org
-              </a>
-            </div>
+
+
+
+<div className="mt-[14px]">
+      <a
+      href="mailto:info@vegacommons.org"
+      className="hover:text-zinc-400 transition-colors"
+    >
+      info@vegacommons.org
+    </a>
+  </div>
+
+
+
           </div>
         </div>
       </main>
